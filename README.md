@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joyce Malubay
-- 👀 I’m interested in sharing project with source codes
+- 👀 I’m interested in sharing project
 - 🌱 I’m currently learning machine learning and android application
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 You can reach me: joycemalubay@gmail.com
